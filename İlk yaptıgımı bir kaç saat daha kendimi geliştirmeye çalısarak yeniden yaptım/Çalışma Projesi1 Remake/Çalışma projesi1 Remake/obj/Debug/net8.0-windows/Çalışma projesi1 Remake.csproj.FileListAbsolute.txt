@@ -1,0 +1,20 @@
+C:\Users\windows 11\source\repos\Çalışma projesi1 Remake\Çalışma projesi1 Remake\bin\Debug\net8.0-windows\Çalışma projesi1 Remake.exe
+C:\Users\windows 11\source\repos\Çalışma projesi1 Remake\Çalışma projesi1 Remake\bin\Debug\net8.0-windows\Çalışma projesi1 Remake.deps.json
+C:\Users\windows 11\source\repos\Çalışma projesi1 Remake\Çalışma projesi1 Remake\bin\Debug\net8.0-windows\Çalışma projesi1 Remake.runtimeconfig.json
+C:\Users\windows 11\source\repos\Çalışma projesi1 Remake\Çalışma projesi1 Remake\bin\Debug\net8.0-windows\Çalışma projesi1 Remake.dll
+C:\Users\windows 11\source\repos\Çalışma projesi1 Remake\Çalışma projesi1 Remake\bin\Debug\net8.0-windows\Çalışma projesi1 Remake.pdb
+C:\Users\windows 11\source\repos\Çalışma projesi1 Remake\Çalışma projesi1 Remake\obj\Debug\net8.0-windows\Çalışma_projesi1_Remake.Form1.resources
+C:\Users\windows 11\source\repos\Çalışma projesi1 Remake\Çalışma projesi1 Remake\obj\Debug\net8.0-windows\Çalışma projesi1 Remake.csproj.GenerateResource.cache
+C:\Users\windows 11\source\repos\Çalışma projesi1 Remake\Çalışma projesi1 Remake\obj\Debug\net8.0-windows\Çalışma projesi1 Remake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows 11\source\repos\Çalışma projesi1 Remake\Çalışma projesi1 Remake\obj\Debug\net8.0-windows\Çalışma projesi1 Remake.AssemblyInfoInputs.cache
+C:\Users\windows 11\source\repos\Çalışma projesi1 Remake\Çalışma projesi1 Remake\obj\Debug\net8.0-windows\Çalışma projesi1 Remake.AssemblyInfo.cs
+C:\Users\windows 11\source\repos\Çalışma projesi1 Remake\Çalışma projesi1 Remake\obj\Debug\net8.0-windows\Çalışma projesi1 Remake.csproj.CoreCompileInputs.cache
+C:\Users\windows 11\source\repos\Çalışma projesi1 Remake\Çalışma projesi1 Remake\obj\Debug\net8.0-windows\Çalışma projesi1 Remake.dll
+C:\Users\windows 11\source\repos\Çalışma projesi1 Remake\Çalışma projesi1 Remake\obj\Debug\net8.0-windows\refint\Çalışma projesi1 Remake.dll
+C:\Users\windows 11\source\repos\Çalışma projesi1 Remake\Çalışma projesi1 Remake\obj\Debug\net8.0-windows\Çalışma projesi1 Remake.pdb
+C:\Users\windows 11\source\repos\Çalışma projesi1 Remake\Çalışma projesi1 Remake\obj\Debug\net8.0-windows\Çalışma projesi1 Remake.genruntimeconfig.cache
+C:\Users\windows 11\source\repos\Çalışma projesi1 Remake\Çalışma projesi1 Remake\obj\Debug\net8.0-windows\ref\Çalışma projesi1 Remake.dll
+C:\Users\windows 11\source\repos\Çalışma projesi1 Remake\Çalışma projesi1 Remake\bin\Debug\net8.0-windows\tr-TR\Çalışma projesi1 Remake.resources.dll
+C:\Users\windows 11\source\repos\Çalışma projesi1 Remake\Çalışma projesi1 Remake\obj\Debug\net8.0-windows\Çalışma_projesi1_Remake.Form2.resources
+C:\Users\windows 11\source\repos\Çalışma projesi1 Remake\Çalışma projesi1 Remake\obj\Debug\net8.0-windows\Çalışma_projesi1_Remake.Form1.tr-TR.resources
+C:\Users\windows 11\source\repos\Çalışma projesi1 Remake\Çalışma projesi1 Remake\obj\Debug\net8.0-windows\tr-TR\Çalışma projesi1 Remake.resources.dll

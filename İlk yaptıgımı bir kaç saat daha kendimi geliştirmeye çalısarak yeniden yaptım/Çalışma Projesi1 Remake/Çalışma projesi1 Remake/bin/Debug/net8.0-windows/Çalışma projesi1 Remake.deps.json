@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Çalışma projesi1 Remake/1.0.0": {
+        "runtime": {
+          "Çalışma projesi1 Remake.dll": {}
+        },
+        "resources": {
+          "tr-TR/Çalışma projesi1 Remake.resources.dll": {
+            "locale": "tr-TR"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Çalışma projesi1 Remake/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
